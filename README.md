@@ -10,3 +10,4 @@ This is a test of using git on this box
 |      |      |
 |     \|/     |
 ---------------
+This is another change!
