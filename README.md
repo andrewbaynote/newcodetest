@@ -1,13 +1,16 @@
 # newcodetest
-This is a test of using git on this box
+## This is a test of using git on this box
 =======================================
+making changes from Windows
 ---------------
-|    ooooo    |
-|  ooooooooo  |
-|    ooooo    |
-|     ooo     |
-|      o      |
-|      |      |
-|     \|/     |
+## Here's a table
+|    ooooo    |    ooooo    |
+|  ooooooooo  |  ooooooooo  |
+|    ooooo    |    ooooo    |
+|     ooo     |     ooo     |
+|      o      |      o      |
+|      |      |      |      |
+|     \|/     |     \|/     |
 ---------------
-This is another change!
+
+### This is another change!
