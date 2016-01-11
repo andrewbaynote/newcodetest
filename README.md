@@ -4,6 +4,8 @@
 making changes from Windows
 ---------------
 ## Here's a table
+|Column 1|column 2|
+|-------------|-------------|
 |    ooooo    |    ooooo    |
 |  ooooooooo  |  ooooooooo  |
 |    ooooo    |    ooooo    |
@@ -11,6 +13,5 @@ making changes from Windows
 |      o      |      o      |
 |      |      |      |      |
 |     \|/     |     \|/     |
----------------
 
 ### This is another change!
