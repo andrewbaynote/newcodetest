@@ -11,7 +11,14 @@ making changes from Windows
 |    ooooo    |    ooooo    |
 |     ooo     |     ooo     |
 |      o      |      o      |
-|      |      |      |      |
-|     \|/     |     \|/     |
+|     <>      |      <>     |
+|     \/     |     \/     |
 
 ### This is another change!
+~~some strikethough shiz~~
+
+*make it italic*
+
+**make it bold**
+
+***make it bold/italic***
